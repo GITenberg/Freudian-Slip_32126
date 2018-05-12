@@ -1,0 +1,31 @@
+_repo: Freudian-Slip_32126
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Harrington
+    gutenberg_agent_id: '34381'
+    url: http://www.gutenberg.org/2009/agents/34381
+covers:
+- cover_type: archival
+  image_path: 32126-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Abel, Franklin
+    gutenberg_agent_id: '35672'
+    url: http://www.gutenberg.org/2009/agents/35672
+description: ''
+gutenberg_issued: '2010-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32126'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Psychoanalysis -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: Freudian Slip
+url: http://www.gutenberg.org/ebooks/32126
